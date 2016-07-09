@@ -20,6 +20,6 @@ CSLeftSlideControllerTwo *LeftSlideController = [[CSLeftSlideControllerTwo alloc
 
 效果图：
 ![image](https://github.com/linchaosheng/LeftSlide/blob/master/CSLeftSlide/VCone.gif ) 
-![image](https://github.com/linchaosheng/LeftSlide/blob/master/CSLeftSlide/VCtwo.gif ) 
+![image](https://github.com/linchaosheng/LeftSlide/blob/master/CSLeftSlide/VCTwo.gif ) 
 
 # 具体使用参考Demo
