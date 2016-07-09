@@ -19,6 +19,7 @@ CSLeftSlideControllerTwo *LeftSlideController = [[CSLeftSlideControllerTwo alloc
 [self.view addSubview:LeftSlideController.view];
 
 效果图：
-![image](https://github.com/YourAcountName/ProjectName/blob/master/GIFName.gif ) 
+![image](https://github.com/linchaosheng/LeftSlide/blob/master/CSLeftSlide/VCone.gif ) 
+![image](https://github.com/linchaosheng/LeftSlide/blob/master/CSLeftSlide/VCtwo.gif ) 
 
 # 具体使用参考Demo
